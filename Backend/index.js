@@ -10,6 +10,9 @@ const PORT = process.env.PORT || 3000;
 let logs = [];
 app.use(express.json());
 
+app.get('/', (req, res) => {
+    res.send("Home page");
+});
 function addLog(level, message) {
     const logEntry = { level, message, timestamp: new Date() };
     logs.push(logEntry);
