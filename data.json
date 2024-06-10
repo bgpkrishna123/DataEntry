@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "score": 85,
+        "age": 25,
+        "city": "New York",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "score": 90,
+        "age": 30,
+        "city": "Los Angeles",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "score": 78,
+        "age": 28,
+        "city": "Chicago",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "score": 92,
+        "age": 35,
+        "city": "Houston",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "name": "Eva",
+        "score": 88,
+        "age": 27,
+        "city": "Miami",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "name": "Frank",
+        "score": 75,
+        "age": 40,
+        "city": "San Francisco",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "name": "Grace",
+        "score": 95,
+        "age": 22,
+        "city": "Seattle",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "name": "Hank",
+        "score": 80,
+        "age": 32,
+        "city": "Boston",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "name": "Ivy",
+        "score": 85,
+        "age": 29,
+        "city": "Atlanta",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "name": "Jack",
+        "score": 78,
+        "age": 26,
+        "city": "Denver",
+        "gender": "Male"
+    },
+    {
+        "id": 11,
+        "name": "Kathy",
+        "score": 88,
+        "age": 33,
+        "city": "Phoenix",
+        "gender": "Female"
+    },
+    {
+        "id": 12,
+        "name": "Liam",
+        "score": 82,
+        "age": 28,
+        "city": "Austin",
+        "gender": "Male"
+    },
+    {
+        "id": 13,
+        "name": "Mia",
+        "score": 91,
+        "age": 31,
+        "city": "San Diego",
+        "gender": "Female"
+    },
+    {
+        "id": 14,
+        "name": "Noah",
+        "score": 79,
+        "age": 29,
+        "city": "Philadelphia",
+        "gender": "Male"
+    },
+    {
+        "id": 15,
+        "name": "Olivia",
+        "score": 87,
+        "age": 34,
+        "city": "Portland",
+        "gender": "Female"
+    },
+    {
+        "id": 16,
+        "name": "Sophia",
+        "score": 83,
+        "age": 26,
+        "city": "Las Vegas",
+        "gender": "Female"
+    },
+    {
+        "id": 17,
+        "name": "William",
+        "score": 94,
+        "age": 33,
+        "city": "Detroit",
+        "gender": "Male"
+    },
+    {
+        "id": 18,
+        "name": "James",
+        "score": 76,
+        "age": 29,
+        "city": "Minneapolis",
+        "gender": "Male"
+    },
+    {
+        "id": 19,
+        "name": "Emma",
+        "score": 89,
+        "age": 27,
+        "city": "Nashville",
+        "gender": "Female"
+    },
+    {
+        "id": 20,
+        "name": "Alexander",
+        "score": 81,
+        "age": 32,
+        "city": "Dallas",
+        "gender": "Male"
+    }
+]
